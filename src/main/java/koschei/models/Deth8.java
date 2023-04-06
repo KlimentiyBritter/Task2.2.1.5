@@ -1,4 +1,3 @@
 package koschei.models;
 
-public class Deth8 {
-}
+public class Deth8 {}
